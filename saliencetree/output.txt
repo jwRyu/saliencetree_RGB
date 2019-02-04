@@ -1,0 +1,1332 @@
+1: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0001.jpg 405x540
+Time Elapsed: 0.036
+2: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0002.jpg 790x565
+Time Elapsed: 0.089
+3: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0003.png 1200x1600
+Time Elapsed: 0.205
+4: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0004.jpg 1334x750
+Time Elapsed: 0.274
+5: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0005.png 573x518
+Time Elapsed: 0.045
+6: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0006.jpg 374x550
+Time Elapsed: 0.063
+7: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0007.jpg 526x526
+Time Elapsed: 0.042
+8: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0008.jpg 548x630
+Time Elapsed: 0.128
+9: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0009.jpg 571x716
+Time Elapsed: 0.134
+10: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0010.jpg 461x461
+Time Elapsed: 0.093
+11: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0011.jpg 366x550
+Time Elapsed: 0.076
+12: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0012.jpg 850x742
+Time Elapsed: 0.151
+13: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0013.jpg 774x666
+Time Elapsed: 0.18
+14: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0014.jpg 598x906
+Time Elapsed: 0.196
+15: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0015.jpg 430x1134
+Time Elapsed: 0.209
+16: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0016.jpg 554x712
+Time Elapsed: 0.182
+17: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0017.jpg 734x1460
+Time Elapsed: 0.444
+18: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0018.jpg 1152x1536
+Time Elapsed: 0.605
+19: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0019.jpg 674x974
+Time Elapsed: 0.265
+20: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0020.jpg 1920x1080
+Time Elapsed: 0.766
+21: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0021.jpg 1334x750
+Time Elapsed: 0.688
+22: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0022.jpg 720x1050
+Time Elapsed: 0.378
+23: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0023.jpg 843x843
+Time Elapsed: 0.294
+24: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0024.jpg 800x1200
+Time Elapsed: 0.453
+25: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0025.jpg 2000x2000
+Time Elapsed: 1.363
+26: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0026.jpg 1638x1142
+Time Elapsed: 0.707
+27: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0027.jpg 2000x2000
+Time Elapsed: 2.003
+28: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0028.jpg 1260x1554
+Time Elapsed: 0.696
+29: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0029.jpg 853x1280
+Time Elapsed: 0.31
+30: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0030.jpg 1920x1080
+Time Elapsed: 0.62
+31: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0031.jpg 1080x1920
+Time Elapsed: 0.656
+32: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0032.jpg 987x1459
+Time Elapsed: 0.607
+33: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0033.jpg 572x1193
+Time Elapsed: 0.262
+34: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0034.jpg 1600x2560
+Time Elapsed: 1.129
+35: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0035.png 1920x1080
+Time Elapsed: 0.381
+36: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0036.png 3531x3531
+Time Elapsed: 1.363
+37: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0037.jpg 853x1280
+Time Elapsed: 0.35
+38: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0038.jpg 954x1108
+Time Elapsed: 0.462
+39: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0039.jpg 1028x1804
+Time Elapsed: 0.638
+40: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0040.jpg 1152x1536
+Time Elapsed: 0.742
+41: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0041.jpg 1080x1920
+Time Elapsed: 0.633
+42: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0042.jpg 1754x1240
+Time Elapsed: 0.336
+43: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0043.jpg 1222x1242
+Time Elapsed: 0.667
+44: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0044.jpg 946x1076
+Time Elapsed: 0.388
+45: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0045.jpg 1276x1536
+Time Elapsed: 0.655
+46: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0046.jpg 1948x1766
+Time Elapsed: 1.353
+47: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0047.jpg 800x1600
+Time Elapsed: 0.421
+48: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0048.jpg 944x1392
+Time Elapsed: 0.518
+49: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0049.jpg 1496x900
+Time Elapsed: 0.484
+50: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0050.jpg 1164x1560
+Time Elapsed: 0.72
+51: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0051.jpg 1095x1402
+Time Elapsed: 0.51
+52: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0052.jpg 1052x1646
+Time Elapsed: 0.758
+53: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0053.jpg 1180x2082
+Time Elapsed: 0.983
+54: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0054.jpg 2000x3000
+Time Elapsed: 2.221
+55: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0055.jpg 1858x1858
+Time Elapsed: 1.546
+56: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0056.jpg 1576x1260
+Time Elapsed: 0.79
+57: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0057.jpg 826x1193
+Time Elapsed: 0.378
+58: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0058.jpg 803x1193
+Time Elapsed: 0.401
+59: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0059.jpg 894x893
+Time Elapsed: 0.35
+60: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0060.jpg 964x1544
+Time Elapsed: 0.516
+61: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0061.jpg 1078x1452
+Time Elapsed: 0.616
+62: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0062.jpg 2334x1760
+Time Elapsed: 1.317
+63: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0063.jpg 1647x1872
+Time Elapsed: 1.125
+64: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0064.jpg 1714x1558
+Time Elapsed: 0.787
+65: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0065.jpg 1068x1431
+Time Elapsed: 0.59
+66: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0066.jpg 1496x996
+Time Elapsed: 0.523
+67: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0067.jpg 3000x2400
+Time Elapsed: 1.984
+68: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0068.jpg 1918x1458
+Time Elapsed: 1.13
+69: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0069.jpg 1918x1458
+Time Elapsed: 1.12
+70: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0070.jpg 1242x1770
+Time Elapsed: 0.91
+71: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0071.jpg 1612x1862
+Time Elapsed: 0.87
+72: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0072.jpg 1200x1920
+Time Elapsed: 0.967
+73: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0073.jpg 628x1680
+Time Elapsed: 0.406
+74: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0074.jpg 4600x4600
+Time Elapsed: 3.636
+75: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0075.png 1536x2048
+Time Elapsed: 0.468
+76: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0076.jpg 3301x2495
+Time Elapsed: 1.942
+77: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0077.jpg 2385x4240
+Time Elapsed: 3.504
+78: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0078.jpg 1365x2048
+Time Elapsed: 1.313
+79: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0079.jpg 2136x2373
+Time Elapsed: 1.719
+80: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0080.jpg 1248x1760
+Time Elapsed: 0.824
+81: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0081.jpg 3000x2000
+Time Elapsed: 2.248
+82: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0082.jpg 1966x1426
+Time Elapsed: 1.129
+83: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0083.jpg 1734x1510
+Time Elapsed: 0.758
+84: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0084.jpg 1732x1344
+Time Elapsed: 1.014
+85: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0085.png 2560x1440
+Time Elapsed: 0.883
+86: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0086.jpg 3000x2015
+Time Elapsed: 1.975
+87: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0087.jpg 1322x1548
+Time Elapsed: 0.779
+88: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0088.jpg 1031x1500
+Time Elapsed: 0.646
+89: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0089.jpg 1328x1748
+Time Elapsed: 0.911
+90: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0090.jpg 1080x1920
+Time Elapsed: 0.513
+91: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0091.jpg 1200x1600
+Time Elapsed: 0.816
+92: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0092.jpg 2228x1873
+Time Elapsed: 1.653
+93: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0093.jpg 1365x2048
+Time Elapsed: 1.207
+94: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0094.jpg 2312x1916
+Time Elapsed: 1.695
+95: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0095.jpg 1995x1324
+Time Elapsed: 0.995
+96: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0096.jpg 1724x1553
+Time Elapsed: 1.076
+97: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0097.jpg 2396x1502
+Time Elapsed: 0.995
+98: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0098.jpg 1933x1193
+Time Elapsed: 0.947
+99: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0099.jpg 1628x1146
+Time Elapsed: 0.819
+100: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0100.jpg 1241x1215
+Time Elapsed: 0.648
+101: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0101.jpg 2428x1866
+Time Elapsed: 1.951
+102: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0102.jpg 1416x2128
+Time Elapsed: 1.084
+103: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0103.jpg 1800x2800
+Time Elapsed: 1.641
+104: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0104.jpg 1800x3600
+Time Elapsed: 1.828
+105: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0105.JPG 4000x6000
+Time Elapsed: 1.413
+106: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0106.jpg 2172x1293
+Time Elapsed: 1.203
+107: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0107.jpg 1861x2790
+Time Elapsed: 1.609
+108: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0108.jpg 1404x1980
+Time Elapsed: 1.038
+109: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0109.jpg 1487x1980
+Time Elapsed: 1.108
+110: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0110.jpg 2086x2781
+Time Elapsed: 2.296
+111: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0111.jpg 2172x1343
+Time Elapsed: 1.224
+112: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0112.jpg 1955x3000
+Time Elapsed: 2.853
+113: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0113.jpg 638x1600
+Time Elapsed: 0.379
+114: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0114.jpg 2351x1619
+Time Elapsed: 1.284
+115: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0115.jpg 2242x1496
+Time Elapsed: 1.002
+116: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0116.jpg 1932x2576
+Time Elapsed: 1.729
+117: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0117.jpg 1440x2560
+Time Elapsed: 0.704
+118: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0118.jpg 1831x1242
+Time Elapsed: 1.032
+119: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0119.jpg 1363x2048
+Time Elapsed: 1.176
+120: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0120.jpg 1594x2008
+Time Elapsed: 1.251
+121: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0121.jpg 2558x2042
+Time Elapsed: 2.103
+122: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0123.jpg 2721x1929
+Time Elapsed: 2.096
+123: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0124.jpg 2776x4000
+Time Elapsed: 4.725
+124: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0125.jpg 1440x2560
+Time Elapsed: 1.123
+125: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0126.jpg 2160x5120
+Time Elapsed: 4.558
+126: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0127.jpg 1384x2223
+Time Elapsed: 1.345
+127: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0128.jpg 1500x1500
+Time Elapsed: 0.875
+128: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0129.jpg 1080x1920
+Time Elapsed: 0.873
+129: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0130.jpg 2721x1928
+Time Elapsed: 2.088
+130: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0131.jpg 2722x1927
+Time Elapsed: 1.944
+131: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0132.jpg 1654x2081
+Time Elapsed: 1.152
+132: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0133.jpg 2756x5884
+Time Elapsed: 5.755
+133: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0134.tif 694x920
+Time Elapsed: 0.263
+134: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0135.jpg 1200x1800
+Time Elapsed: 0.631
+135: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0136.jpg 1807x1807
+Time Elapsed: 1.394
+136: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0137.jpg 2815x2255
+Time Elapsed: 2.281
+137: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0138.jpg 3648x5472
+Time Elapsed: 8.043
+138: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0139.jpg 3066x1908
+Time Elapsed: 2.309
+139: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0140.jpg 2160x4096
+Time Elapsed: 3.556
+140: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0141.jpg 2160x4096
+Time Elapsed: 3.556
+141: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0142.jpg 1065x1600
+Time Elapsed: 0.72
+142: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0143.jpg 1916x1924
+Time Elapsed: 1.098
+143: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0144.png 1080x1920
+Time Elapsed: 0.785
+144: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0145.jpg 2392x1392
+Time Elapsed: 1.048
+145: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0146.jpg 1170x1800
+Time Elapsed: 0.641
+146: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0147.jpg 2648x5973
+Time Elapsed: 4.383
+147: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0148.jpg 1710x1134
+Time Elapsed: 0.86
+148: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0149.jpg 3137x6000
+Time Elapsed: 6.361
+149: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0150.jpg 1667x2500
+Time Elapsed: 1.97
+150: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0151.jpg 2696x3536
+Time Elapsed: 3.638
+151: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0152.jpg 1127x1159
+Time Elapsed: 0.486
+152: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0153.jpg 1140x1772
+Time Elapsed: 0.868
+153: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0154.jpg 1667x2500
+Time Elapsed: 1.564
+154: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0155.jpg 1056x1852
+Time Elapsed: 0.912
+155: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0156.jpg 3456x5184
+Time Elapsed: 7.567
+156: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0157.jpg 2263x2925
+Time Elapsed: 3.047
+157: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0158.jpg 1667x1667
+Time Elapsed: 1.133
+158: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0159.jpg 2805x4223
+Time Elapsed: 4.178
+159: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0160.jpg 2392x1392
+Time Elapsed: 1.172
+160: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0161.jpg 2871x2300
+Time Elapsed: 2.89
+161: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0162.jpg 1795x2939
+Time Elapsed: 2.037
+162: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0163.jpg 2009x2009
+Time Elapsed: 1.84
+163: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0164.jpg 2850x1901
+Time Elapsed: 2.411
+164: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0165.jpg 2563x1908
+Time Elapsed: 1.671
+165: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0166.jpg 3000x3000
+Time Elapsed: 3.279
+166: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0167.jpg 3000x2400
+Time Elapsed: 3.637
+167: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0168.jpg 2292x3321
+Time Elapsed: 2.607
+168: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0169.jpg 1876x3004
+Time Elapsed: 2.307
+169: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0170.jpg 1481x2122
+Time Elapsed: 1.353
+170: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0171.jpg 1693x1800
+Time Elapsed: 0.991
+171: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0172.jpg 2521x2005
+Time Elapsed: 1.906
+172: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0173.jpg 4663x3109
+Time Elapsed: 5.225
+173: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0174.jpg 3872x2592
+Time Elapsed: 4.812
+174: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0175.jpg 1488x2247
+Time Elapsed: 1.388
+175: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0176.png 1080x1920
+Time Elapsed: 0.796
+176: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0177.jpg 1481x2122
+Time Elapsed: 1.404
+177: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0178.jpg 1428x1730
+Time Elapsed: 1.212
+178: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0179.png 1067x1600
+Time Elapsed: 0.671
+179: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0180.jpg 2592x3888
+Time Elapsed: 4.204
+180: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0181.jpg 2736x3648
+Time Elapsed: 4.419
+181: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0182.jpg 2146x3220
+Time Elapsed: 3.269
+182: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0183.jpg 1800x1800
+Time Elapsed: 1.484
+183: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0184.jpg 1481x2122
+Time Elapsed: 1.419
+184: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0185.jpg 3072x4608
+Time Elapsed: 6.423
+185: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0186.jpg 1536x2048
+Time Elapsed: 1.306
+186: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0187.jpg 1481x2122
+Time Elapsed: 1.452
+187: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0188.jpg 1356x2048
+Time Elapsed: 1.218
+188: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0189.jpg 2797x2250
+Time Elapsed: 2.867
+189: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0190.jpg 1750x2237
+Time Elapsed: 1.208
+190: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0191.jpg 1450x2400
+Time Elapsed: 1.617
+191: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0192.JPG 4000x6000
+Time Elapsed: 4.181
+192: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0193.JPG 4000x6000
+Time Elapsed: 5.764
+193: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0195.jpg 2646x3508
+Time Elapsed: 3.268
+194: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0196.jpg 5708x4508
+Time Elapsed: 8.679
+195: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0197.jpg 2448x3264
+Time Elapsed: 3.201
+196: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0198.jpg 2436x3623
+Time Elapsed: 3.398
+197: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0199.jpg 3309x4597
+Time Elapsed: 5.933
+198: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0200.jpg 3200x4800
+Time Elapsed: 4.416
+199: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0201.jpg 2160x3840
+Time Elapsed: 3.283
+200: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0202.jpg 2592x3888
+Time Elapsed: 4.937
+201: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0203.jpg 2848x4272
+Time Elapsed: 5.715
+202: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0204.jpg 3456x4608
+Time Elapsed: 6.096
+203: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0205.jpg 2940x2730
+Time Elapsed: 3.353
+204: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0206.jpg 2998x3998
+Time Elapsed: 4.911
+205: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0207.jpg 1464x2415
+Time Elapsed: 1.591
+206: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0208.jpg 4516x6096
+Time Elapsed: 11.692
+207: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0209.jpg 2736x3648
+Time Elapsed: 5.523
+208: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0210.jpg 2592x3888
+Time Elapsed: 4.071
+209: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0211.jpg 2491x1779
+Time Elapsed: 1.915
+210: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0212.jpg 2134x2134
+Time Elapsed: 1.984
+211: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0213.jpg 4568x4300
+Time Elapsed: 6.637
+212: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0214.jpg 3291x4259
+Time Elapsed: 4.73
+213: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0215.jpg 3998x5998
+Time Elapsed: 11.07
+214: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0216.jpg 1731x2400
+Time Elapsed: 1.752
+215: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0217.jpg 1567x2400
+Time Elapsed: 1.626
+216: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0218.jpg 2848x4288
+Time Elapsed: 4.698
+217: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0219.jpg 1607x2400
+Time Elapsed: 1.874
+218: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0220.jpg 1800x2400
+Time Elapsed: 1.952
+219: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0221.jpg 4129x2778
+Time Elapsed: 4.672
+220: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0222.png 1080x1920
+Time Elapsed: 0.86
+221: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0223.jpg 3034x4550
+Time Elapsed: 5.979
+222: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0224.jpg 2848x4288
+Time Elapsed: 4.137
+223: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0225.jpg 3978x2865
+Time Elapsed: 5.003
+224: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0226.jpg 3512x5262
+Time Elapsed: 6.106
+225: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0227.jpg 1477x2400
+Time Elapsed: 1.761
+226: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0228.jpg 1941x1941
+Time Elapsed: 1.522
+227: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0229.jpg 2848x4288
+Time Elapsed: 5.599
+228: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0230.jpg 2160x3840
+Time Elapsed: 4.059
+229: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0231.jpg 4000x6000
+Time Elapsed: 10.427
+230: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0232.jpg 4025x3021
+Time Elapsed: 5.128
+231: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0233.png 2160x3840
+Time Elapsed: 2.26
+232: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0234.jpg 1451x2400
+Time Elapsed: 1.56
+233: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0235.jpg 6016x4000
+Time Elapsed: 6.781
+234: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0236.jpg 2472x3161
+Time Elapsed: 3.7
+235: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0237.jpg 2304x3456
+Time Elapsed: 3.96
+236: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0238.jpg 4061x2997
+Time Elapsed: 5.125
+237: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0239.jpg 2310x2664
+Time Elapsed: 2.586
+238: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0240.jpg 4320x7680
+Time Elapsed: 10.838
+239: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0241.JPG 4000x6000
+Time Elapsed: 7.315
+240: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0242.jpg 2988x5312
+Time Elapsed: 6.247
+241: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0243.jpg 3365x4200
+Time Elapsed: 3.987
+242: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0244.jpg 4928x3264
+Time Elapsed: 5.484
+243: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0245.JPG 4000x6000
+Time Elapsed: 7.131
+244: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0246.JPG 4000x6000
+Time Elapsed: 7.527
+245: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0247.jpg 2848x4288
+Time Elapsed: 4.766
+246: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0248.jpg 2848x4288
+Time Elapsed: 5.875
+247: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0249.jpg 2342x3000
+Time Elapsed: 3.277
+248: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0250.JPG 4000x6000
+Time Elapsed: 7.448
+249: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0251.jpg 4000x3000
+Time Elapsed: 4.783
+250: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0252.jpg 2848x4288
+Time Elapsed: 4.774
+251: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0253.JPG 4000x6000
+Time Elapsed: 7.935
+252: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0254.jpg 4800x3200
+Time Elapsed: 5.665
+253: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0255.jpg 3000x4000
+Time Elapsed: 5.255
+254: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0256.jpg 2621x3931
+Time Elapsed: 4.139
+255: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0257.JPG 4000x6000
+Time Elapsed: 7.558
+256: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0258.jpg 1607x2400
+Time Elapsed: 1.645
+257: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0259.jpg 3456x4608
+Time Elapsed: 7.072
+258: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0260.JPG 4000x6000
+Time Elapsed: 6.976
+259: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0261.JPG 4000x6000
+Time Elapsed: 7.596
+260: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0262.JPG 4000x6000
+Time Elapsed: 7.564
+261: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0263.JPG 4000x6000
+Time Elapsed: 7.593
+262: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0264.jpg 3300x2550
+Time Elapsed: 2.43
+263: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0265.jpg 5184x3456
+Time Elapsed: 7.577
+264: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0266.JPG 4000x6000
+Time Elapsed: 8.204
+265: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0267.JPG 4000x6000
+Time Elapsed: 9.008
+266: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0268.jpg 4928x3264
+Time Elapsed: 5.964
+267: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0269.jpg 3456x4608
+Time Elapsed: 7.759
+268: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0270.JPG 4000x6000
+Time Elapsed: 7.178
+269: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0271.JPG 4000x6000
+Time Elapsed: 7.446
+270: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0272.jpg 3217x4288
+Time Elapsed: 5.944
+271: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0273.jpg 2848x4288
+Time Elapsed: 4.876
+272: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0274.JPG 4000x6000
+Time Elapsed: 9.353
+273: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0275.jpg 5184x3456
+Time Elapsed: 5.8
+274: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0276.jpg 3456x5184
+Time Elapsed: 9.258
+275: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0277.JPG 4000x6000
+Time Elapsed: 9.228
+276: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0278.jpg 1992x2885
+Time Elapsed: 2.954
+277: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0279.JPG 4000x6000
+Time Elapsed: 7.513
+278: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0280 (1).jpg 4000x6000
+Time Elapsed: 7.514
+279: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0280.jpg 3376x6000
+Time Elapsed: 7.959
+280: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0281.jpg 2517x4136
+Time Elapsed: 3.683
+281: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0282.jpg 3072x4608
+Time Elapsed: 5.478
+282: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0283.jpg 3405x2724
+Time Elapsed: 4.317
+283: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0284.png 1728x2304
+Time Elapsed: 1.645
+284: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0285.JPG 4000x6000
+Time Elapsed: 8.429
+285: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0286.JPG 4000x6000
+Time Elapsed: 8.082
+286: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0287.JPG 4000x6000
+Time Elapsed: 8.526
+287: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0288.JPG 4000x6000
+Time Elapsed: 7.228
+288: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0289.JPG 4000x6000
+Time Elapsed: 7.711
+289: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0290.jpg 2304x4096
+Time Elapsed: 3.923
+290: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0291.JPG 4000x6000
+Time Elapsed: 12.374
+291: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0292.jpg 3619x5423
+Time Elapsed: 7.441
+292: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0293.jpg 1685x5491
+Time Elapsed: 3.655
+293: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0294.jpg 3600x3840
+Time Elapsed: 6.49
+294: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0295.jpg 4928x3264
+Time Elapsed: 6.902
+295: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0296.jpg 4928x3264
+Time Elapsed: 6.871
+296: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0297.JPG 4000x6000
+Time Elapsed: 11.015
+297: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0298.JPG 6000x4000
+Time Elapsed: 10.045
+298: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0299.JPG 4000x6000
+Time Elapsed: 11.481
+299: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0300.JPG 4000x6000
+Time Elapsed: 9.118
+300: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0301.jpg 3268x4902
+Time Elapsed: 6.561
+301: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0302.JPG 4000x6000
+Time Elapsed: 8.196
+302: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0303.JPG 4000x6000
+Time Elapsed: 10.502
+303: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0304.jpg 3383x5074
+Time Elapsed: 7.815
+304: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0305.JPG 4000x6000
+Time Elapsed: 9.242
+305: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0306.jpg 3264x4928
+Time Elapsed: 7.375
+306: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0307.JPG 4000x6000
+Time Elapsed: 8.124
+307: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0308.jpg 3648x5472
+Time Elapsed: 6.226
+308: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0309.jpg 4285x5000
+Time Elapsed: 10.727
+309: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0310.JPG 4000x6000
+Time Elapsed: 9.841
+310: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0311.JPG 4000x6000
+Time Elapsed: 9.969
+311: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0312.JPG 4000x6000
+Time Elapsed: 9.024
+312: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0313.JPG 4000x6000
+Time Elapsed: 10.848
+313: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0314.JPG 4000x6000
+Time Elapsed: 9.058
+314: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0315.JPG 4000x6000
+Time Elapsed: 10.02
+315: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0316.jpg 2976x3968
+Time Elapsed: 5.282
+316: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0317.JPG 4000x6000
+Time Elapsed: 9.297
+317: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0318.JPG 4000x6000
+Time Elapsed: 12.485
+318: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0319.JPG 4000x6000
+Time Elapsed: 13.669
+319: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0320.JPG 4000x6000
+Time Elapsed: 9.14
+320: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0321.JPG 4000x6000
+Time Elapsed: 9.044
+321: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0322.JPG 4000x6000
+Time Elapsed: 9.223
+322: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0323.JPG 4000x6000
+Time Elapsed: 10.475
+323: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0324.JPG 4000x6000
+Time Elapsed: 7.997
+324: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0325.JPG 4000x6000
+Time Elapsed: 12.049
+325: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0326.JPG 4000x6000
+Time Elapsed: 11.87
+326: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0327.JPG 4000x6000
+Time Elapsed: 10.115
+327: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0328.JPG 4000x6000
+Time Elapsed: 11.706
+328: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0329.JPG 4000x6000
+Time Elapsed: 7.515
+329: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0330.JPG 4000x6000
+Time Elapsed: 8.716
+330: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0331.JPG 4000x6000
+Time Elapsed: 8.572
+331: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0332.JPG 4000x6000
+Time Elapsed: 12.421
+332: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0333.JPG 4000x6000
+Time Elapsed: 10.592
+333: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0334.JPG 4000x6000
+Time Elapsed: 11.156
+334: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0335.JPG 4000x6000
+Time Elapsed: 9.197
+335: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0336.JPG 4000x6000
+Time Elapsed: 9.61
+336: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0337.jpg 3977x5715
+Time Elapsed: 9.322
+337: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0338.JPG 4000x6000
+Time Elapsed: 7.16
+338: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0339.JPG 4000x6000
+Time Elapsed: 11.834
+339: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0340.JPG 4000x6000
+Time Elapsed: 10.136
+340: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0341.png 2160x3840
+Time Elapsed: 3.33
+341: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0342.JPG 4000x6000
+Time Elapsed: 9.305
+342: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0343.JPG 4000x6000
+Time Elapsed: 16.053
+343: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0344.JPG 4000x6000
+Time Elapsed: 7.566
+344: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0345.JPG 4000x6000
+Time Elapsed: 8.954
+345: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0346.JPG 4000x6000
+Time Elapsed: 8.721
+346: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0347.JPG 4000x6000
+Time Elapsed: 8.152
+347: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0348.JPG 4000x6000
+Time Elapsed: 8.106
+348: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0349.JPG 4000x6000
+Time Elapsed: 9.295
+349: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0350.jpg 4253x6373
+Time Elapsed: 6.676
+350: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0351.JPG 6000x4000
+Time Elapsed: 9.853
+351: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0352.JPG 6000x4000
+Time Elapsed: 10.353
+352: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0353.jpg 3715x5580
+Time Elapsed: 9.68
+353: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0354.png 2160x3840
+Time Elapsed: 2.811
+354: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0355.JPG 4000x6000
+Time Elapsed: 10.453
+355: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0356.JPG 4000x6000
+Time Elapsed: 12.284
+356: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0357.JPG 4000x6000
+Time Elapsed: 9.083
+357: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0358.JPG 4000x6000
+Time Elapsed: 8.453
+358: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0359.JPG 4000x6000
+Time Elapsed: 9.443
+359: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0360.JPG 4000x6000
+Time Elapsed: 12.094
+360: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0361.JPG 4000x6000
+Time Elapsed: 9.021
+361: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0362.jpg 3942x5898
+Time Elapsed: 9.899
+362: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0363.png 2160x3840
+Time Elapsed: 3.579
+363: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0364.JPG 4000x6000
+Time Elapsed: 11.908
+364: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0365.JPG 4000x6000
+Time Elapsed: 8.476
+365: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0366.JPG 4000x6000
+Time Elapsed: 9.59
+366: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0367.JPG 4000x6000
+Time Elapsed: 8.996
+367: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0368.JPG 4000x6000
+Time Elapsed: 9.083
+368: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0369.JPG 4000x6000
+Time Elapsed: 10.162
+369: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0370.JPG 4000x6000
+Time Elapsed: 9.449
+370: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0371.JPG 4000x6000
+Time Elapsed: 9.411
+371: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0372.jpg 4464x2957
+Time Elapsed: 6.324
+372: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0373.JPG 4000x6000
+Time Elapsed: 9.13
+373: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0374.JPG 4000x6000
+Time Elapsed: 9.862
+374: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0375.JPG 4000x6000
+Time Elapsed: 8.641
+375: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0376.JPG 4000x6000
+Time Elapsed: 9.498
+376: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0377.JPG 4000x6000
+Time Elapsed: 8.557
+377: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0378.JPG 6000x4000
+Time Elapsed: 9.373
+378: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0379.JPG 4000x6000
+Time Elapsed: 14.29
+379: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0380.JPG 4000x6000
+Time Elapsed: 10.167
+380: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0381.JPG 4000x6000
+Time Elapsed: 10.64
+381: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0382.JPG 4000x6000
+Time Elapsed: 10.444
+382: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0383.JPG 4000x6000
+Time Elapsed: 8.644
+383: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0384.JPG 4000x6000
+Time Elapsed: 9.613
+384: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0385.JPG 4000x6000
+Time Elapsed: 7.606
+385: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0386.JPG 6000x4000
+Time Elapsed: 9.695
+386: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0387.JPG 4000x6000
+Time Elapsed: 9.547
+387: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0388.JPG 6000x4000
+Time Elapsed: 8.886
+388: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0389.png 2160x3840
+Time Elapsed: 3.384
+389: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0390.JPG 4000x6000
+Time Elapsed: 10.215
+390: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0391.JPG 4000x6000
+Time Elapsed: 10.059
+391: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0392.JPG 4000x6000
+Time Elapsed: 9.243
+392: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0393.jpg 3454x3456
+Time Elapsed: 4.472
+393: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0394.JPG 4000x6000
+Time Elapsed: 11.778
+394: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0395.JPG 4000x6000
+Time Elapsed: 10.841
+395: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0396.JPG 4000x6000
+Time Elapsed: 17.578
+396: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0397.JPG 4000x6000
+Time Elapsed: 9.29
+397: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0398.JPG 4000x6000
+Time Elapsed: 10.868
+398: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0399.JPG 4000x6000
+Time Elapsed: 7.47
+399: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0400.JPG 4000x6000
+Time Elapsed: 9.74
+400: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0401.JPG 6000x4000
+Time Elapsed: 7.654
+401: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0402.JPG 4000x6000
+Time Elapsed: 8.593
+402: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0403.jpg 2994x4476
+Time Elapsed: 5.54
+403: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0404.JPG 6000x4000
+Time Elapsed: 7.442
+404: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0405.jpg 4000x5742
+Time Elapsed: 10.1
+405: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0406.JPG 4000x6000
+Time Elapsed: 10.038
+406: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0407.JPG 4000x6000
+Time Elapsed: 9.542
+407: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0408.JPG 4000x6000
+Time Elapsed: 10.204
+408: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0409.JPG 4000x6000
+Time Elapsed: 10.028
+409: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0410.jpg 3264x4928
+Time Elapsed: 7.13
+410: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0411.JPG 4000x6000
+Time Elapsed: 9.832
+411: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0412.JPG 4000x6000
+Time Elapsed: 10.091
+412: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0413.JPG 4000x6000
+Time Elapsed: 11.338
+413: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0414.JPG 4000x6000
+Time Elapsed: 11.054
+414: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0415.JPG 6000x4000
+Time Elapsed: 9.119
+415: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0416.JPG 4000x6000
+Time Elapsed: 9.112
+416: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0417.JPG 4000x6000
+Time Elapsed: 9.429
+417: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0418.JPG 4000x6000
+Time Elapsed: 10.128
+418: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0419.JPG 4000x6000
+Time Elapsed: 10.147
+419: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0420.JPG 4000x6000
+Time Elapsed: 9.828
+420: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0421.JPG 4000x6000
+Time Elapsed: 10.758
+421: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0422.JPG 4000x6000
+Time Elapsed: 8.846
+422: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0423.JPG 4000x6000
+Time Elapsed: 8.983
+423: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0424.JPG 4000x6000
+Time Elapsed: 10.267
+424: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0425.JPG 4000x6000
+Time Elapsed: 10.774
+425: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0426.JPG 4000x6000
+Time Elapsed: 8.942
+426: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0427.jpg 2963x4230
+Time Elapsed: 4.643
+427: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0428.jpg 2700x3300
+Time Elapsed: 3.686
+428: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0429.JPG 4000x6000
+Time Elapsed: 16.448
+429: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0430.JPG 4000x6000
+Time Elapsed: 9.197
+430: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0431.JPG 4000x6000
+Time Elapsed: 8.878
+431: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0432.JPG 4000x6000
+Time Elapsed: 11.398
+432: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0433.JPG 4000x6000
+Time Elapsed: 9.005
+433: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0434.JPG 4000x6000
+Time Elapsed: 9.699
+434: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0435.JPG 6000x4000
+Time Elapsed: 9.129
+435: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0436.JPG 4000x6000
+Time Elapsed: 10.12
+436: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0437.jpg 4605x3050
+Time Elapsed: 6.387
+437: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0438.JPG 4000x6000
+Time Elapsed: 9.888
+438: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0439.JPG 4000x6000
+Time Elapsed: 10.386
+439: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0440.JPG 4000x6000
+Time Elapsed: 10.844
+440: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0441.JPG 4000x6000
+Time Elapsed: 11.138
+441: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0442.JPG 4000x6000
+Time Elapsed: 8.199
+442: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0443.JPG 4000x6000
+Time Elapsed: 8.819
+443: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0444.JPG 4000x6000
+Time Elapsed: 7.785
+444: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0445.JPG 4000x6000
+Time Elapsed: 9.825
+445: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0446.JPG 4000x6000
+Time Elapsed: 11.242
+446: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0447.JPG 4000x6000
+Time Elapsed: 8.827
+447: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0448.png 2160x3840
+Time Elapsed: 3.22
+448: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0449.JPG 4000x6000
+Time Elapsed: 8.131
+449: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0450.JPG 4000x6000
+Time Elapsed: 7.973
+450: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0451.JPG 4000x6000
+Time Elapsed: 13.332
+451: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0452.JPG 4000x6000
+Time Elapsed: 8.875
+452: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0453.JPG 4000x6000
+Time Elapsed: 13.016
+453: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0454.JPG 4000x6000
+Time Elapsed: 9.773
+454: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0455.JPG 4000x6000
+Time Elapsed: 9.462
+455: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0456.JPG 4000x6000
+Time Elapsed: 8.897
+456: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0457.JPG 4000x6000
+Time Elapsed: 8.542
+457: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0458.JPG 4000x6000
+Time Elapsed: 9.965
+458: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0459.png 2160x3840
+Time Elapsed: 3.544
+459: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0460.png 2160x3840
+Time Elapsed: 3.537
+460: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0461.JPG 6000x4000
+Time Elapsed: 9.807
+461: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0462.JPG 4000x6000
+Time Elapsed: 11.264
+462: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0463.JPG 4000x6000
+Time Elapsed: 8.629
+463: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0464.JPG 4000x6000
+Time Elapsed: 9.224
+464: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0465.JPG 4000x6000
+Time Elapsed: 9.871
+465: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0466.JPG 4000x6000
+Time Elapsed: 11.297
+466: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0467.JPG 4000x6000
+Time Elapsed: 9.917
+467: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0468.jpg 3744x5616
+Time Elapsed: 8.279
+468: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0469.JPG 4000x6000
+Time Elapsed: 10.306
+469: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0470.JPG 6000x4000
+Time Elapsed: 9.289
+470: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0471.JPG 4000x6000
+Time Elapsed: 8.766
+471: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0472.JPG 4000x6000
+Time Elapsed: 9.932
+472: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0473.JPG 4000x6000
+Time Elapsed: 10.507
+473: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0474.JPG 4000x6000
+Time Elapsed: 9.857
+474: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0475.JPG 4000x6000
+Time Elapsed: 9.433
+475: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0476.jpg 3406x5109
+Time Elapsed: 7.777
+476: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0477.JPG 4000x6000
+Time Elapsed: 10.311
+477: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0478.JPG 4000x6000
+Time Elapsed: 9.571
+478: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0479.JPG 4000x6000
+Time Elapsed: 9.976
+479: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0480.JPG 4000x6000
+Time Elapsed: 10.192
+480: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0481.JPG 4000x6000
+Time Elapsed: 9.799
+481: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0482.JPG 4000x6000
+Time Elapsed: 9.929
+482: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0483.JPG 4000x6000
+Time Elapsed: 12.25
+483: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0484.JPG 4000x6000
+Time Elapsed: 9.992
+484: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0485.JPG 4000x6000
+Time Elapsed: 9.439
+485: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0486.JPG 4000x6000
+Time Elapsed: 9.408
+486: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0487.JPG 4000x6000
+Time Elapsed: 9.778
+487: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0488.JPG 4000x6000
+Time Elapsed: 10.232
+488: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0489.JPG 4000x6000
+Time Elapsed: 12.56
+489: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0490.JPG 4000x6000
+Time Elapsed: 12.06
+490: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0491.JPG 4000x6000
+Time Elapsed: 9.906
+491: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0492.JPG 4000x6000
+Time Elapsed: 9.76
+492: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0493.JPG 4000x6000
+Time Elapsed: 9.527
+493: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0494.JPG 4000x6000
+Time Elapsed: 9.599
+494: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0495.JPG 4000x6000
+Time Elapsed: 10.719
+495: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0496.JPG 4000x6000
+Time Elapsed: 10.276
+496: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0497.JPG 4000x6000
+Time Elapsed: 8.947
+497: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0498.JPG 4000x6000
+Time Elapsed: 9.426
+498: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0499.JPG 4000x6000
+Time Elapsed: 9.71
+499: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0500.JPG 4000x6000
+Time Elapsed: 9.495
+500: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0501.JPG 4000x6000
+Time Elapsed: 10.762
+501: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0502.JPG 4000x6000
+Time Elapsed: 9.709
+502: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0503.JPG 4000x6000
+Time Elapsed: 10.773
+503: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0504.JPG 4000x6000
+Time Elapsed: 9.542
+504: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0505.JPG 4000x6000
+Time Elapsed: 9.948
+505: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0506.JPG 4000x6000
+Time Elapsed: 9.46
+506: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0507.JPG 4000x6000
+Time Elapsed: 10
+507: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0508.JPG 4000x6000
+Time Elapsed: 11.029
+508: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0509.JPG 4000x6000
+Time Elapsed: 10.851
+509: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0510.JPG 4000x6000
+Time Elapsed: 10.659
+510: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0511.JPG 4000x6000
+Time Elapsed: 12.379
+511: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0512.JPG 4000x6000
+Time Elapsed: 12.717
+512: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0513.JPG 4000x6000
+Time Elapsed: 9.661
+513: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0514.jpg 3264x4928
+Time Elapsed: 7.854
+514: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0515.JPG 4000x6000
+Time Elapsed: 9.859
+515: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0516.JPG 4000x6000
+Time Elapsed: 9.564
+516: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0517.jpg 2160x3821
+Time Elapsed: 3.463
+517: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0518.JPG 4000x6000
+Time Elapsed: 9.978
+518: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0519.JPG 4000x6000
+Time Elapsed: 10.278
+519: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0520.JPG 4000x6000
+Time Elapsed: 9.728
+520: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0521.JPG 4000x6000
+Time Elapsed: 10.165
+521: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0522.JPG 4000x6000
+Time Elapsed: 10.179
+522: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0523.JPG 4000x6000
+Time Elapsed: 9.28
+523: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0524.JPG 4000x6000
+Time Elapsed: 9.65
+524: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0525.JPG 4000x6000
+Time Elapsed: 9.608
+525: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0526.JPG 4000x6000
+Time Elapsed: 9.62
+526: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0527.JPG 4000x6000
+Time Elapsed: 9.69
+527: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0528.JPG 4000x6000
+Time Elapsed: 9.616
+528: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0529.JPG 4000x6000
+Time Elapsed: 9.264
+529: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0530.JPG 4000x6000
+Time Elapsed: 10.871
+530: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0531.JPG 4000x6000
+Time Elapsed: 9.499
+531: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0532.JPG 4000x6000
+Time Elapsed: 10.153
+532: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0533.JPG 4000x6000
+Time Elapsed: 13.172
+533: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0534.JPG 4000x6000
+Time Elapsed: 9.437
+534: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0535.JPG 4000x6000
+Time Elapsed: 10.115
+535: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0536.JPG 4000x6000
+Time Elapsed: 9.938
+536: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0537.JPG 4000x6000
+Time Elapsed: 9.694
+537: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0538.jpg 6024x4024
+Time Elapsed: 11.525
+538: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0539.JPG 4000x6000
+Time Elapsed: 15.02
+539: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0540.JPG 4000x6000
+Time Elapsed: 9.333
+540: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0541.jpg 2400x3000
+Time Elapsed: 3.639
+541: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0542.JPG 4000x6000
+Time Elapsed: 13.594
+542: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0543.JPG 4000x6000
+Time Elapsed: 10.358
+543: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0544.JPG 4000x6000
+Time Elapsed: 9.573
+544: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0545 (1).JPG 4000x6000
+Time Elapsed: 11.224
+545: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0545.JPG 4000x6000
+Time Elapsed: 11.231
+546: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0546.JPG 4000x6000
+Time Elapsed: 9.513
+547: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0547.JPG 4000x6000
+Time Elapsed: 9.805
+548: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0548.JPG 4000x6000
+Time Elapsed: 9.687
+549: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0549.png 2815x4223
+Time Elapsed: 5.111
+550: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0550.JPG 4000x6000
+Time Elapsed: 11.092
+551: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0551.JPG 4000x6000
+Time Elapsed: 11.125
+552: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0552.JPG 4000x6000
+Time Elapsed: 9.868
+553: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0553.JPG 4000x6000
+Time Elapsed: 10.13
+554: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0554.JPG 4000x6000
+Time Elapsed: 10813
+555: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0555.JPG 4000x6000
+Time Elapsed: 14434.4
+556: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0556.JPG 4000x6000
+Time Elapsed: 13.79
+557: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0557.JPG 4000x6000
+Time Elapsed: 12.798
+558: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0558.JPG 4000x6000
+Time Elapsed: 12.145
+559: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0559.JPG 4000x6000
+Time Elapsed: 10.358
+560: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0560.JPG 4000x6000
+Time Elapsed: 9.679
+561: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0561.JPG 4000x6000
+Time Elapsed: 11.342
+562: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0562.JPG 4000x6000
+Time Elapsed: 9.595
+563: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0563.JPG 4000x6000
+Time Elapsed: 11.37
+564: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0564.JPG 4000x6000
+Time Elapsed: 9.895
+565: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0565.JPG 4000x6000
+Time Elapsed: 9.888
+566: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0566.JPG 4000x6000
+Time Elapsed: 9.935
+567: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0567.JPG 4000x6000
+Time Elapsed: 10.334
+568: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0568.JPG 4000x6000
+Time Elapsed: 10.7
+569: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0569.JPG 4000x6000
+Time Elapsed: 10.13
+570: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0570.JPG 4000x6000
+Time Elapsed: 11.211
+571: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0571.JPG 4000x6000
+Time Elapsed: 10.197
+572: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0572.JPG 4000x6000
+Time Elapsed: 10.249
+573: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0573.jpg 3648x5472
+Time Elapsed: 7.03
+574: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0574.JPG 4000x6000
+Time Elapsed: 11.079
+575: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0575.JPG 6000x4000
+Time Elapsed: 11.184
+576: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0576.JPG 4000x6000
+Time Elapsed: 9.517
+577: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0577.JPG 4000x6000
+Time Elapsed: 10.644
+578: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0578.JPG 4000x6000
+Time Elapsed: 10.6
+579: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0579.JPG 4000x6000
+Time Elapsed: 9.942
+580: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0580.JPG 4000x6000
+Time Elapsed: 10.4
+581: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0581.JPG 4000x6000
+Time Elapsed: 10.931
+582: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0582.JPG 4000x6000
+Time Elapsed: 11.768
+583: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0583.JPG 4000x6000
+Time Elapsed: 9.468
+584: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0584.JPG 4000x6000
+Time Elapsed: 13.557
+585: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0585.JPG 4000x6000
+Time Elapsed: 10.246
+586: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0586.JPG 4000x6000
+Time Elapsed: 10.178
+587: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0587.JPG 4000x6000
+Time Elapsed: 10.193
+588: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0588.JPG 4000x6000
+Time Elapsed: 10.704
+589: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0589.JPG 4000x6000
+Time Elapsed: 9.493
+590: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0590.jpg 3031x3031
+Time Elapsed: 3.162
+591: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0591.JPG 4000x6000
+Time Elapsed: 12.318
+592: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0592.JPG 4000x6000
+Time Elapsed: 9.741
+593: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0593.jpg 4000x6000
+Time Elapsed: 9.772
+594: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0594.JPG 4000x6000
+Time Elapsed: 10.695
+595: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0595.JPG 4000x6000
+Time Elapsed: 9.424
+596: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0596.JPG 4000x6000
+Time Elapsed: 10.301
+597: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0597.JPG 4000x6000
+Time Elapsed: 9.817
+598: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0598.JPG 4000x6000
+Time Elapsed: 10.647
+599: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0599.JPG 4000x6000
+Time Elapsed: 9.803
+600: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0600.JPG 4000x6000
+Time Elapsed: 10.033
+601: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0601.JPG 4000x6000
+Time Elapsed: 11.805
+602: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0602.JPG 4000x6000
+Time Elapsed: 11.195
+603: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0603.jpg 3840x5760
+Time Elapsed: 9.749
+604: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0604.JPG 4000x6000
+Time Elapsed: 11.135
+605: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0605.jpg 3840x5760
+Time Elapsed: 8.071
+606: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0606.JPG 4000x6000
+Time Elapsed: 11.946
+607: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0607.JPG 4000x6000
+Time Elapsed: 11.806
+608: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0608.JPG 4000x6000
+Time Elapsed: 11.264
+609: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0609.JPG 4000x6000
+Time Elapsed: 11.699
+610: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0610.JPG 4000x6000
+Time Elapsed: 9.928
+611: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0611.JPG 4000x6000
+Time Elapsed: 11.297
+612: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0612.JPG 4000x6000
+Time Elapsed: 9.782
+613: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0613.JPG 4000x6000
+Time Elapsed: 9.459
+614: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0614.JPG 4000x6000
+Time Elapsed: 10.213
+615: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0615.JPG 4000x6000
+Time Elapsed: 11.884
+616: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0616.JPG 4000x6000
+Time Elapsed: 11.053
+617: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0617.JPG 4000x6000
+Time Elapsed: 9.971
+618: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0618.JPG 4000x6000
+Time Elapsed: 10.638
+619: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0619.JPG 4000x6000
+Time Elapsed: 11.279
+620: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0620.JPG 4000x6000
+Time Elapsed: 11.429
+621: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0621.JPG 4000x6000
+Time Elapsed: 9.666
+622: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0622.JPG 4000x6000
+Time Elapsed: 10.612
+623: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0623.JPG 4000x6000
+Time Elapsed: 10.131
+624: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0624.JPG 4000x6000
+Time Elapsed: 11.43
+625: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0625.JPG 4000x6000
+Time Elapsed: 10.232
+626: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0626.JPG 4000x6000
+Time Elapsed: 11.004
+627: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0627.JPG 4000x6000
+Time Elapsed: 10.513
+628: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0628.JPG 4000x6000
+Time Elapsed: 10.611
+629: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0629.JPG 4000x6000
+Time Elapsed: 10.48
+630: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0630.JPG 4000x6000
+Time Elapsed: 10.938
+631: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0631.JPG 4000x6000
+Time Elapsed: 10.723
+632: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0632.JPG 4000x6000
+Time Elapsed: 10.905
+633: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0633.JPG 4000x6000
+Time Elapsed: 11.639
+634: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0634.JPG 4000x6000
+Time Elapsed: 10.727
+635: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0635.jpg 3664x8894
+Time Elapsed: 11.325
+636: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0636.JPG 4000x6000
+Time Elapsed: 10.546
+637: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0637.JPG 4000x6000
+Time Elapsed: 10.051
+638: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0638.jpg 3999x5992
+Time Elapsed: 10.431
+639: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0639.JPG 4000x6000
+Time Elapsed: 10.517
+640: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0640.JPG 4000x6000
+Time Elapsed: 10.599
+641: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0641.jpg 4000x6000
+Time Elapsed: 9.784
+642: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0642.JPG 4000x6000
+Time Elapsed: 9.617
+643: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0643.JPG 4000x6000
+Time Elapsed: 10.377
+644: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0644.jpg 3840x5760
+Time Elapsed: 8.655
+645: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0645.JPG 4000x6000
+Time Elapsed: 11.158
+646: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0646.jpg 3756x5628
+Time Elapsed: 7.371
+647: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0647.jpg 4000x6000
+Time Elapsed: 10.421
+648: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0648.jpg 3611x5418
+Time Elapsed: 7.806
+649: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0649.jpg 6000x4000
+Time Elapsed: 8.21
+650: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0650.jpg 3840x5760
+Time Elapsed: 9.98
+651: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0651.jpg 6000x4000
+Time Elapsed: 9.396
+652: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0652.jpg 3417x6857
+Time Elapsed: 9.883
+653: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0653.jpg 3840x5760
+Time Elapsed: 8.406
+654: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0654.png 3200x5120
+Time Elapsed: 5.905
+655: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0655.png 3200x5120
+Time Elapsed: 5.815
+656: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0656.jpg 4000x6000
+Time Elapsed: 9.946
+657: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0657.jpg 5782x4241
+Time Elapsed: 9.506
+658: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0658.jpg 4577x6859
+Time Elapsed: 11.706
+659: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0659.jpg 6480x4912
+Time Elapsed: 12.121
+660: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0660.jpg 13394x10119
+Time Elapsed: 43.993
+661: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0661.jpg 4729x9211
+Time Elapsed: 18.123
+662: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0662.png 3200x5120
+Time Elapsed: 6.725
+663: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0663.jpg 8377x5585
+Time Elapsed: 19.959
+664: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0664.jpg 6869x6480
+Time Elapsed: 18.079
+665: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0665.jpg 5504x8256
+Time Elapsed: 20.953
+666: C:\Users\jwryu\Google Drive\RUG\2018\AlphaTree\imgdata\Colour\Colour_0666.jpg 7438x6644
+Time Elapsed: 18.644
